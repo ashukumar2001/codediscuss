@@ -1,0 +1,25 @@
+* {
+    font-family: 'Varela', sans-serif;
+}
+.btn {
+    border-radius: 20px;
+    font-size: 0.8rem;
+    padding: 0.3rem 0.5rem;
+}
+input {
+    border-radius: 20px;
+}
+.navbar-toggler {
+    border: none;
+}
+.navbar .navbar-brand {
+    font-size: 1.7rem;
+    font-weight: bold;
+    color: rgb(1, 132, 255);
+}
+.searchbar {
+    border-radius: 3rem;
+}
+#thread-list-container {
+    min-height: 500px;
+}
